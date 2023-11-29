@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Coin : MonoBehaviour
 {
     public int _coin = 0;
-    public TextMeshPro _text;
+    //public TextMeshPro _text;
     
     void Start()
     {
